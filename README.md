@@ -7,3 +7,6 @@ Updated at: Wed Nov  5 15:06:46 PST 2025
 # FINAL TEST with tagged logs - 15:14:44
 # No more restart loop\! - 15:17:53
 # Daemon still alive? - 15:19:08
+
+## Verifying DEV branch sync
+This should appear on the DEV branch at: https://github.com/jasonfh12-sudo/lux-movers/tree/dev
